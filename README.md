@@ -1,1 +1,3 @@
 # cynthiaUgwu
+# smoth scrolling
+# GSAP
